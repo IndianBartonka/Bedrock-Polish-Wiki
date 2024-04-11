@@ -1,8 +1,9 @@
 > [!IMPORTANT]
 > WORK IN PROGRESS
-> Informacje na ten tamat były brane
-> [Minecraft Wiki](https://minecraft.fandom.com/wiki/Bedrock_Dedicated_Server)
-> `bedrock_server_how_to.html` który jest dołączony do BDS
+> BDS jest używany na [realms](https://www.minecraft.net/pl-pl/realms) <br>
+> Informacje na ten tamat były brane <br>
+> [Minecraft Wiki](https://minecraft.fandom.com/wiki/Bedrock_Dedicated_Server) <br>
+> `bedrock_server_how_to.html` który jest dołączony do BDS <br>
 > A także z własnego doświadczenia
 
 <div align="center">
@@ -11,7 +12,7 @@
 
 Jest do Vanilowy silnik servera , można pobrać go z
 strony [mojang](https://www.minecraft.net/en-us/download/server/bedrock) <br>
-Nie wspiera on [pluginów](#pluginy) ale pozwala na [addony](#addony)
+Nie wspiera on [pluginów](#pluginy) ale pozwala na [addony](#addony) <br>
 
 </div>
 
@@ -21,12 +22,12 @@ Nie wspiera on [pluginów](#pluginy) ale pozwala na [addony](#addony)
 
 Windows
 
-* Windows 10
-* Windows Server 2021
+* Windows 10 (Bądź wyższe)
+* Windows Server 2021 (Bądź wyższe)
 
 Linux
 
-* Ubuntu 20.04
+* Ubuntu 20.04 (Bądź wyższe)
 * Inne dystrybucje linux pomimo że nie są wspierane i tak powinny działać
 
 #### Procesor
@@ -39,9 +40,9 @@ Procesor musi mieć przynajmniej `3GHz`, inaczej nawet przy większej ilość rd
 
 #### RAM
 
-BDS w odróżnieniu od jakiego kolwiek silnika MCJE nie potrzebuje za dużo ramu<br>
-
+BDS w odróżnieniu od jakiego kolwiek silnika MCJE nie potrzebuje za dużo ramu lecz średni wymagane jest <br>
 * 6GB
+  * Testowane było 8GB `DDR4 3200MHz` i radziło sobie dobrze, BDS brał po 2GB przy 5-10 graczy i addonach
 
 ---
 

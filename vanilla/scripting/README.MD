@@ -5,7 +5,7 @@
 
 # Skryptowanie
 
-Skryptowanie jest dostępne tylko dla [BDS](..%2F..%2Fserver%2Fsoftwares%2Fvanilla%2FBDS.MD)
+Skryptowanie jest dostępne tylko dla [BDS](..%2F..%2Fserver%2Fsoftwares%2Fvanilla%2FBDS.MD) i swiatów lokalnych
 </div>
 
 

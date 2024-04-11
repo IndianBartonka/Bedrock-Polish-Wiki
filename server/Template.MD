@@ -1,6 +1,6 @@
 # Szablon opisu silnik servera wygląda następująco
 
-```
+```md
 > [!IMPORTANT]
 > BARDZO WAŻNE INFORMACJE NA TEMAT SILNIKA
 
@@ -18,21 +18,22 @@ Wymagania systemowe
 
 ---
 
-### Server.properties
+### Server.properties (Opcjonalne)
 
 Informacje o plikach konfigruacyincyh
 
 ---
 
-## Addony
+## Addony (Opcjonalne)
 
 Informacje o tym czy addony
 
 ---
 
-### Pluginy
+### Pluginy (Opcjonalne)
 
 Informacje o tym czy wspiera wtyczki 
 ---
 
+Możesz także dodać jakieś info od siebie!
 ```

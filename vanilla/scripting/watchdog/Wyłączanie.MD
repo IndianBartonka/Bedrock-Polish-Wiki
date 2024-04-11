@@ -1,10 +1,8 @@
-> [!IMPORTANT]
-> WORK IN PROGRESS
-
 <div align="center">
 
 # Jak wyłączyć WatchDog
 
+Znajdziesz tu informacje na temat jak wyłączyć WatchDog
 </div>
 
 
@@ -18,6 +16,7 @@ eventData.cancel = true;
 ```
 
 ## Wyłączanie z poziomu BDS
-Musisz w 
-[Server.properties](..%2F..%2F..%2Fserver%2Fsoftwares%2Fvanilla%2FBDS.MD#script-watchdog-enable)
-ustawić `script-watchdog-enable` na `false`, dodając poprostu linię `script-watchdog-enable=false`
+
+Musisz w [Server.properties](..%2F..%2F..%2Fserver%2Fsoftwares%2Fvanilla%2FBDS.MD#script-watchdog-enable)
+ustawić `script-watchdog-enable` na `false`<br>
+Dodając poprostu linię `script-watchdog-enable=false`
