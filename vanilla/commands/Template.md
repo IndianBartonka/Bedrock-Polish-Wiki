@@ -18,6 +18,7 @@ Opis użycja
 Opis wykonania
 
 ---
+
 ## Wymagany poziom permisji operatorów
 Wymagany poziom permisji OP (nie musi być podwany)
 ```
