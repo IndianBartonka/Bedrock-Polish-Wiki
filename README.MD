@@ -12,6 +12,7 @@
 </div>
 
 ##### Spis treści
+0. [Ddodatkowe](Dodadkowe.MD)- Dodatkowe ciekawstki dotyczące MCBE
 1. [Oprogramowania dla serverów](server%2FREADME.MD) - Bardziej i mniej znane silniki serverów 
 2. [Polecenia](vanilla%2Fcommands%2FREADME.MD) - Przykłady i opisy działania poleceń
 3. [Skryptowanie](vanilla%2Fscripting%2FREADME.MD) - Porady dotyczące skryptowania
